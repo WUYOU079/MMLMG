@@ -1,4 +1,4 @@
-# MML-MG
+# MSGRL
 
 This repository includes the scripts for MML-MG.
 
